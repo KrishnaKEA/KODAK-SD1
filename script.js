@@ -1,6 +1,7 @@
 const jsonCall = () => {
 	const ulElement = document.querySelector(".content");
-	const url = "https://www.thesportsdb.com/api/v1/json/2/all_sports.php";
+	const a = "all_sports"
+	const url = "https://www.thesportsdb.com/api/v1/json/2/"+a+".php";
 
 	fetch(url)
 		.then((response) => response.json())

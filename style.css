@@ -13,4 +13,6 @@ body {
 	align-items: center;
 	justify-content: center;
 }
-
+#div1 {
+	margin: 10px;
+}
