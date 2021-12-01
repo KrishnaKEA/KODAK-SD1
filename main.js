@@ -9,8 +9,8 @@ var firebaseConfig = {
 };
 
 firebase.initializeApp(firebaseConfig);
-const useremail = "";
-const userId = "";
+let useremail = "";
+let userId = "";
 const database = firebase.database();
 const auth = firebase.auth();
 
@@ -31,7 +31,7 @@ function signUp() {
 	const promise = auth
 		.createUserWithEmailAndPassword(email.value, password.value)
 		.then((cred) => {
-			console.log(cred.user.email);
+			alert(cred.user.uid);
 			savetoDatabase(
 				cred.user.uid,
 				username.value,
@@ -42,7 +42,6 @@ function signUp() {
 		})
 		.then(() => {
 			alert("successfully created user and its database.");
-			window.location = "login.html";
 		});
 
 	promise.catch((e) => alert(e.message));
@@ -55,11 +54,13 @@ function signIn() {
 	const password = document.getElementById("password");
 	auth
 		.signInWithEmailAndPassword(email.value, password.value)
-		.then((cred) => {})
+		.then((cred) => {
+			useremail = cred.user.email;
+			showDetail();
+		})
 		.catch((error) => {
 			return console.log(error.message);
 		});
-	showDetail();
 }
 
 //signOut
@@ -74,18 +75,23 @@ function signOut() {
 //active user to homepage
 firebase.auth().onAuthStateChanged((user) => {
 	if (user) {
+		useremail = user.email;
+		userId = user.uid;
 	} else {
 		alert("No Active user Found");
 	}
 });
 
 function savetoDatabase(uid, username, number, address, fsport) {
-	database.ref("user/" + uid).set({
-		username: username,
-		number: number,
-		address: address,
-		fsport: fsport,
-	});
+	firebase
+		.database()
+		.ref("user/" + uid)
+		.set({
+			username: username,
+			number: number,
+			address: address,
+			fsport: fsport,
+		});
 }
 function showDetail() {
 	firstDiv.style.display = "none";
@@ -96,16 +102,16 @@ function showDetail() {
 	const userphone = document.querySelector("#userphone");
 	const usersport = document.querySelector("#usersport");
 	const useraddress = document.querySelector("#useraddress");
-	username.innerHTML = "Krishna Khanal";
-	useremail.innerHTML = "kris47f9@stud.kea.dk";
-	userphone.innerHTML = "71879246";
-	usersport.innerHTML = "football";
-	useraddress.innerHTML = "Ringertoften 6 2tv 2400";
+
 	var leadsRef = database.ref("user");
 	leadsRef.on("value", function (snapshot) {
 		snapshot.forEach(function (childSnapshot) {
 			var childData = childSnapshot.val();
-			console.log(childData);
+
+			username.innerHTML = "Name:- " + childData.username;
+			userphone.innerHTML = "Phone number:- " + childData.number;
+			usersport.innerHTML = "Favourite sprot:- " + childData.fsport;
+			useraddress.innerHTML = "Address:- " + childData.address;
 		});
 	});
 }
