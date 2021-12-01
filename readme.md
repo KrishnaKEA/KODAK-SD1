@@ -1,6 +1,5 @@
-## Sports for All
+## ✯ Sports for All ✯
 
-FileStreamBot Logo
 
 The Project, namely Sports for All, will focus on practical experience sharing about agile software
 
