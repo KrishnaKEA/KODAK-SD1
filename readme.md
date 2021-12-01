@@ -1,5 +1,7 @@
 ## Sports for All
 
+FileStreamBot Logo
+
 The Project, namely Sports for All, will focus on practical experience sharing about agile software
 
 development methodology and detail day-to-day implementation of some of the agile methodologies i.e.,
@@ -23,23 +25,27 @@ real-world companies develop applications and be able to develop one using the s
 technology stack.
 
 Technologies used:
-\_ Git & GitHub
+ _ Git & GitHub
 
-\_ Visual Studio IDE
+ _ Visual Studio IDE
 
  _ Firebase DB
 
   
 
 In our application landing page, we have three main features:
-\_ Members
+ _ Members
 
-\_ Discussions
+ _ Discussions
 
-\_ Events
+ _ Events
 
 Note: Users can view discussions and events without the need for logging. However, whenever User need
 
 to interact with our system, for example to see members, signup for events or post some comments in
 
 the discussions…they need to be logged in as member otherwise register themselves.
+
+
+
+
