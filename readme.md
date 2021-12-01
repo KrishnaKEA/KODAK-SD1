@@ -27,6 +27,10 @@ Technologies used:
 
 \_ Visual Studio IDE
 
+ _ Firebase DB
+
+  
+
 In our application landing page, we have three main features:
 \_ Members
 
