@@ -12,10 +12,13 @@ development methodology and detail day-to-day implementation of some of the agil
 SCRUM and XP framework as well as step by step process on agile software development producing a
 
 prototype and Proof of Concept application at the end.
+  
 
 <img src="/Context_Diag.PNG" alt="context diag" style="height: 300px; width:500px;"/>
+  
 
 <strong> Mission </strong>
+  
 We support and encourage active and healthy lifestyles, by providing extensively boosting knowledge
 
 and experience sharing platform with our sole purposes being to empower people of all kind through
@@ -29,14 +32,18 @@ real-world companies develop applications and be able to develop one using the s
 
 technology stack.
 
+  
 <strong>Technologies used:</strong>
+  
 \_ Git & GitHub
 
 \_ Visual Studio IDE
 
 \_ Firebase DB
 
+  
 <strong>Core Concepts</strong>
+  
 • Agile Manifesto
 
 • Scrum and XP
@@ -53,7 +60,9 @@ technology stack.
 
 • Web app development and integrating with an API
 
+  
 In our application landing page, we have <strong>three main features</strong>:
+  
 \_ Members
 
 \_ Discussions
