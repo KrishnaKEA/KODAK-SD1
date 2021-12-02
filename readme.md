@@ -15,28 +15,28 @@ prototype and Proof of Concept application at the end.
 
 <img src="/Context_Diag.PNG" alt="context diag" style="height: 300px; width:500px;"/>
 
-<bold> Mission </bold>
+<strong> Mission </strong>
 We support and encourage active and healthy lifestyles, by providing extensively boosting knowledge
 
 and experience sharing platform with our sole purposes being to empower people of all kind through
 
 our one-stop-shop application for all sport activities.
 
-Objective of this project
+<strong>Objective of this project</strong>
 At the end of the project, team will have an understanding, experience, and knowledge of how
 
 real-world companies develop applications and be able to develop one using the same methodology and
 
 technology stack.
 
-<bold>Technologies used:<bold/>
+<strong>Technologies used:</strong>
 \_ Git & GitHub
 
 \_ Visual Studio IDE
 
 \_ Firebase DB
 
-<bold>Core Concepts<bold/>
+<strong>Core Concepts</strong>
 • Agile Manifesto
 
 • Scrum and XP
@@ -53,14 +53,14 @@ technology stack.
 
 • Web app development and integrating with an API
 
-In our application landing page, we have three main features:
+In our application landing page, we have <strong>three main features</strong>:
 \_ Members
 
 \_ Discussions
 
 \_ Events
 
-<bold>Note<bold/>: Users can view discussions and events without the need for logging. However, whenever User need
+<strong>Note</strong>: Users can view discussions and events without the need for logging. However, whenever User need
 
 to interact with our system, for example to see members, signup for events or post some comments in
 
