@@ -40,6 +40,24 @@ Technologies used:
  _ Firebase DB
 
   
+  Core Concepts
+•	Agile Manifesto
+
+•	Scrum and XP 
+
+•	Breaking down big features into smaller and achievable tasks
+
+•	Pair Programming
+
+•	Collective Ownership
+
+•	Using Source Code Management (SCM) or Version Control System (VCS)
+
+•	API (Application Programming Interface) development with storage
+
+•	Web app development and integrating with an API
+
+
 
 In our application landing page, we have three main features:
  _ Members
