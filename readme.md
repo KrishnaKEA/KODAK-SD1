@@ -4,11 +4,10 @@
 
 
 🚸 This is Just For Educational Purpose
-
  ☺ If This Out of Your Policy Contact us
 
 
-
+<img src="E:\Computer_Science\3th_Semester\SoftwareDev\Exam_Project\KODAK-SD1\Context_Diag.PNG" alt="context_diag" style="height: 100px; width:100px;"/>
 
 The Project, namely Sports for All, will focus on practical experience sharing about agile software
 
