@@ -1,13 +1,11 @@
 ## ✯ Sports for All ✯
 
-♢ API used url: https://www.thesportsdb.com/api/v1/json/2/all_sports.php 
-
+♢ API used url: https://www.thesportsdb.com/api/v1/json/2/all_sports.php
 
 🚸 This is Just For Educational Purpose
- ☺ If This Out of Your Policy Contact us
- 
- 
- The Project, namely <strong>Sports for All<strong/>, will focus on practical experience sharing about agile software
+☺ If This Out of Your Policy Contact us
+
+The Project, namely <strong>Sports for All<strong/>, will focus on practical experience sharing about agile software
 
 development methodology and detail day-to-day implementation of some of the agile methodologies i.e.,
 
@@ -15,11 +13,9 @@ SCRUM and XP framework as well as step by step process on agile software develop
 
 prototype and Proof of Concept application at the end.
 
-
 <img src="/Context_Diag.PNG" alt="context diag" style="height: 300px; width:500px;"/>
 
-
-# Mission
+<bold> Mission </bold>
 We support and encourage active and healthy lifestyles, by providing extensively boosting knowledge
 
 and experience sharing platform with our sole purposes being to empower people of all kind through
@@ -33,46 +29,39 @@ real-world companies develop applications and be able to develop one using the s
 
 technology stack.
 
-<strong>Technologies used:<strong/>
- _ Git & GitHub
+<bold>Technologies used:<bold/>
+\_ Git & GitHub
 
- _ Visual Studio IDE
+\_ Visual Studio IDE
 
- _ Firebase DB
+\_ Firebase DB
 
-  
- <strong>Core Concepts<strong/>
-•	Agile Manifesto
+<bold>Core Concepts<bold/>
+• Agile Manifesto
 
-•	Scrum and XP 
+• Scrum and XP
 
-•	Breaking down big features into smaller and achievable tasks
+• Breaking down big features into smaller and achievable tasks
 
-•	Pair Programming
+• Pair Programming
 
-•	Collective Ownership
+• Collective Ownership
 
-•	Using Source Code Management (SCM) or Version Control System (VCS)
+• Using Source Code Management (SCM) or Version Control System (VCS)
 
-•	API (Application Programming Interface) development with storage
+• API (Application Programming Interface) development with storage
 
-•	Web app development and integrating with an API
-
-
+• Web app development and integrating with an API
 
 In our application landing page, we have three main features:
- _ Members
+\_ Members
 
- _ Discussions
+\_ Discussions
 
- _ Events
+\_ Events
 
-<em>Note<em/>: Users can view discussions and events without the need for logging. However, whenever User need
+<bold>Note<bold/>: Users can view discussions and events without the need for logging. However, whenever User need
 
 to interact with our system, for example to see members, signup for events or post some comments in
 
 the discussions…they need to be logged in as member otherwise register themselves.
-
-
-
-
