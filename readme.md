@@ -6,7 +6,7 @@
 🚸 This is Just For Educational Purpose
  ☺ If This Out of Your Policy Contact us
 
-<img src="/Context_Diag.PNG" alt="context diag" style="height: 100px; width:100px;"/>
+<img src="/Context_Diag.PNG" alt="context diag" style="height: 300px; width:300px;"/>
 
 
 The Project, namely Sports for All, will focus on practical experience sharing about agile software
