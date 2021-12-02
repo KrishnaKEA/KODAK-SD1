@@ -1,3 +1,5 @@
+<a class="js-navigation-open Link--primary" title="README.md" data-pjax="#repo-content-pjax-container" href="/dillydill123/inventory-setups/blob/master/README.md">README.md</a>
+
 ## ✯ Sports for All ✯
 
 ♢ API used url: https://www.thesportsdb.com/api/v1/json/2/all_sports.php
@@ -65,3 +67,5 @@ In our application landing page, we have three main features:
 to interact with our system, for example to see members, signup for events or post some comments in
 
 the discussions…they need to be logged in as member otherwise register themselves.
+
+
