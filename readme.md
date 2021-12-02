@@ -5,17 +5,18 @@
 
 🚸 This is Just For Educational Purpose
  ☺ If This Out of Your Policy Contact us
-
-<img src="/Context_Diag.PNG" alt="context diag" style="height: 300px; width:500px;"/>
-
-
-The Project, namely Sports for All, will focus on practical experience sharing about agile software
+ 
+ The Project, namely Sports for All, will focus on practical experience sharing about agile software
 
 development methodology and detail day-to-day implementation of some of the agile methodologies i.e.,
 
 SCRUM and XP framework as well as step by step process on agile software development producing a
 
 prototype and Proof of Concept application at the end.
+
+
+<img src="/Context_Diag.PNG" alt="context diag" style="height: 300px; width:500px;"/>
+
 
 Mission
 We support and encourage active and healthy lifestyles, by providing extensively boosting knowledge
