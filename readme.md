@@ -28,7 +28,8 @@ and experience sharing platform with our sole purposes being to empower people o
 our one-stop-shop application for all sport activities.
   
 <br/> 
-<strong>Objective of this project</strong>
+<strong>Objective </strong>
+  
 At the end of the project, team will have an understanding, experience, and knowledge of how
 
 real-world companies develop applications and be able to develop one using the same methodology and
