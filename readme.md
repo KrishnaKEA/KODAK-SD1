@@ -78,7 +78,9 @@ In our application landing page, we have <strong>three main features</strong>:
 
   
  <br/>  
-<strong>Note</strong>: Users can view discussions and events without the need for logging. However, whenever User need
+<strong>Note</strong>: 
+
+Users can view discussions and events without the need for logging. However, whenever User need
 
 to interact with our system, for example to see members, signup for events or post some comments in
 
