@@ -56,7 +56,6 @@ technology stack.
 
 • Breaking down big features into smaller and achievable tasks
   
-<br/> 
 • Pair Programming
 
 • Collective Ownership
