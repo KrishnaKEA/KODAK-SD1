@@ -85,6 +85,6 @@ Users can view discussions and events without the need for logging. However, whe
 
 to interact with our system, for example to see members, signup for events or post some comments in
 
-the discussions…they need to be logged in as member otherwise register themselves.
+the discussions…they need to be logged in as member, in other words, register themselves.
 
 
