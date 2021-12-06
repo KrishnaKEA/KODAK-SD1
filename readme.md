@@ -16,9 +16,10 @@ SCRUM and XP framework as well as step by step process on agile software develop
 prototype and Proof of Concept application at the end.
   
 
-<img src="/Context_Diag.PNG" alt="context diag" style="height: 300px; width:500px;"/>
+<img src="/Context_Diag.PNG" alt="context diag" style="height: 250px; width:500px;"/>
   
-
+<br/> 
+<br/>  
 <strong> Mission </strong>
   
 We support and encourage active and healthy lifestyles, by providing extensively boosting knowledge
@@ -26,14 +27,17 @@ We support and encourage active and healthy lifestyles, by providing extensively
 and experience sharing platform with our sole purposes being to empower people of all kind through
 
 our one-stop-shop application for all sport activities.
-
-<strong>Objective of this project</strong>
+  
+<br/> 
+<strong>Objective </strong>
+  
 At the end of the project, team will have an understanding, experience, and knowledge of how
 
 real-world companies develop applications and be able to develop one using the same methodology and
 
 technology stack.
 
+ <br/> 
   
 <strong>Technologies used:</strong>
   
@@ -41,9 +45,10 @@ technology stack.
 
 \_ Visual Studio IDE
 
-\_ Firebase DB
+\_ Firebase DB (for intuitive login)
 
   
+<br/>   
 <strong>Core Concepts</strong>
   
 • Agile Manifesto
@@ -51,7 +56,7 @@ technology stack.
 • Scrum and XP
 
 • Breaking down big features into smaller and achievable tasks
-
+  
 • Pair Programming
 
 • Collective Ownership
@@ -63,6 +68,7 @@ technology stack.
 • Web app development and integrating with an API
 
   
+<br/>   
 In our application landing page, we have <strong>three main features</strong>:
   
 \_ Members
@@ -71,7 +77,11 @@ In our application landing page, we have <strong>three main features</strong>:
 
 \_ Events
 
-<strong>Note</strong>: Users can view discussions and events without the need for logging. However, whenever User need
+  
+ <br/>  
+<strong>Note</strong>: 
+
+Users can view discussions and events without the need for logging. However, whenever User need
 
 to interact with our system, for example to see members, signup for events or post some comments in
 
