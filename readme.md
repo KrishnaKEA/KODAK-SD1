@@ -41,9 +41,11 @@ technology stack.
   
 <strong>Technologies used:</strong>
   
-\_ Git & GitHub
+\_ Git & GitHub (for collaboration)
 
-\_ Visual Studio IDE
+\_ Visual Studio IDE (for implementation)
+  
+ _ Wireframe (for prototyping)
 
 \_ Firebase DB (for intuitive login)
 
@@ -51,11 +53,20 @@ technology stack.
 <br/>   
 <strong>Core Concepts</strong>
   
-• Agile Manifesto
+Agile Methodology Implementation
 
-• Scrum and XP
+<br/>  
+Scrum 
+ 
+• Scrum Master (SM)  - for keeping us on track
+  
+• Product Owner (PO)  - all of us PO as per specification  
 
 • Breaking down big features into smaller and achievable tasks
+
+  <br/>
+  
+Extreme Programming (XP) 
   
 • Pair Programming
 
