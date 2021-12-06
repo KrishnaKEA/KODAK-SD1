@@ -35,6 +35,7 @@ real-world companies develop applications and be able to develop one using the s
 technology stack.
 
   
+  
 <strong>Technologies used:</strong>
   
 \_ Git & GitHub
@@ -43,6 +44,7 @@ technology stack.
 
 \_ Firebase DB (for intuitive login)
 
+  
   
 <strong>Core Concepts</strong>
   
@@ -63,6 +65,7 @@ technology stack.
 • Web app development and integrating with an API
 
   
+  
 In our application landing page, we have <strong>three main features</strong>:
   
 \_ Members
@@ -71,6 +74,8 @@ In our application landing page, we have <strong>three main features</strong>:
 
 \_ Events
 
+  
+  
 <strong>Note</strong>: Users can view discussions and events without the need for logging. However, whenever User need
 
 to interact with our system, for example to see members, signup for events or post some comments in
