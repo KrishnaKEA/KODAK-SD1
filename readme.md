@@ -72,12 +72,16 @@ Extreme Programming (XP)
 
 • Collective Ownership
 
+  
+  <br/>
+  
 • Using Source Code Management (SCM) or Version Control System (VCS)
 
 • API (Application Programming Interface) development with storage
 
 • Web app development and integrating with an API
 
+  
   
 <br/>   
 In our application landing page, we have <strong>three main features</strong>:
