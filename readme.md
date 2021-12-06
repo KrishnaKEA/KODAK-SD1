@@ -16,7 +16,7 @@ SCRUM and XP framework as well as step by step process on agile software develop
 prototype and Proof of Concept application at the end.
   
 
-<img src="/Context_Diag.PNG" alt="context diag" style="height: 300px; width:500px;"/>
+<img src="/Context_Diag.PNG" alt="context diag" style="height: 300px; width:300px;"/>
   
 <br/> 
 <strong> Mission </strong>
