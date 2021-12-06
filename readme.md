@@ -41,7 +41,7 @@ technology stack.
 
 \_ Visual Studio IDE
 
-\_ Firebase DB
+\_ Firebase DB (for intuitive login)
 
   
 <strong>Core Concepts</strong>
