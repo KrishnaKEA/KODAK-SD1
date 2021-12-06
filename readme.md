@@ -19,6 +19,7 @@ prototype and Proof of Concept application at the end.
 <img src="/Context_Diag.PNG" alt="context diag" style="height: 250px; width:500px;"/>
   
 <br/> 
+<br/>  
 <strong> Mission </strong>
   
 We support and encourage active and healthy lifestyles, by providing extensively boosting knowledge
