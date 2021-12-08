@@ -7,11 +7,11 @@
 🚸 This is Just For Educational Purpose
 ☺ If This Out of Your Policy Contact us
 
-The Project, namely <strong>Sports for All<strong/>, will focus on practical experience sharing about agile software
+This Project, namely <strong>Sports for All<strong/>, will focus on the practical experience sharing of agile software
 
-development methodology and detail day-to-day implementation of some of the agile methodologies i.e.,
+development methodologies and detail the day-to-day practices of some of the elements of the agile frameworks i.e.,
 
-SCRUM and XP framework as well as step by step process on agile software development producing a
+SCRUM and eXtreme Programming, as well as the step by step process of agile software development, producing a
 
 prototype and Proof of Concept application at the end.
   
@@ -22,21 +22,21 @@ prototype and Proof of Concept application at the end.
 <br/>  
 <strong> Mission </strong>
   
-We support and encourage active and healthy lifestyles, by providing extensively boosting knowledge
+We aim to support and encourage active and healthy lifestyles, by providing an extensive and user-driven knowledge
 
-and experience sharing platform with our sole purposes being to empower people of all kind through
+and experience sharing platform, with our sole purpose being to empower people of all backgrounds through
 
-our one-stop-shop application for all sport activities.
+our one-stop-shop application for all sport and exercise activities.
   
 <br/> 
 <strong>Objective </strong>
   
-At the end of the project, team will have an understanding, experience, and knowledge of how
+At the end of the project, the team will have an understanding, experience, and knowledge of how
 
 real-world companies develop applications and be able to develop one using the same methodology and
 
-technology stack.
-
+development practices.
+  
  <br/> 
   
 <strong>Technologies used:</strong>
@@ -45,7 +45,7 @@ technology stack.
 
 \_ Visual Studio IDE (for implementation)
   
- _ Wireframe (for prototyping)
+\_ Balsamiq Wireframe (for prototyping)
 
 \_ Firebase DB (for intuitive login)
 
@@ -62,7 +62,9 @@ Scrum
   
 • Product Owner (PO)  - all of us PO as per specification  
 
-• Breaking down big features into smaller and achievable tasks
+• Breaking down big features into smaller and achievable tasks 
+
+• Daily Scrum Meetings
 
   <br/>
   
@@ -86,7 +88,7 @@ Extreme Programming (XP)
 <br/>   
 In our application landing page, we have <strong>three main features</strong>:
   
-\_ Members
+\_ Profile
 
 \_ Discussions
 
@@ -96,10 +98,10 @@ In our application landing page, we have <strong>three main features</strong>:
  <br/>  
 <strong>Note</strong>: 
 
-Users can view discussions and events without the need for logging. However, whenever User need
+Users can view discussions and events without the need for logging in. However, whenever a User needs
 
-to interact with our system, for example to see members, signup for events or post some comments in
+to interact with our system, for example to see members, signup for events or post comments in
 
-the discussions…they need to be logged in as member, in other words, register themselves.
+the discussions… they need to be logged in as a member, in other words, register themselves.
 
 
