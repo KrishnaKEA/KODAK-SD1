@@ -94,7 +94,8 @@ In our application landing page, we have <strong>three main features</strong>:
 
 \_ Events
 
-  
+  Deployed product prototype (in progress...)
+  https://aqueous-fortress-70622.herokuapp.com/
  <br/>  
 <strong>Note</strong>: 
 
