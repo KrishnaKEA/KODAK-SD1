@@ -14,7 +14,6 @@ development methodologies and detail the day-to-day practices of some of the ele
 SCRUM and eXtreme Programming, as well as the step by step process of agile software development, producing a
 
 prototype and Proof of Concept application at the end.
-  
 
 <img src="/Context_Diag.PNG" alt="context diag" style="height: 250px; width:500px;"/>
   
@@ -27,7 +26,7 @@ We aim to support and encourage active and healthy lifestyles, by providing an e
 and experience sharing platform, with our sole purpose being to empower people of all backgrounds through
 
 our one-stop-shop application for all sport and exercise activities.
-  
+
 <br/> 
 <strong>Objective </strong>
   
@@ -36,7 +35,7 @@ At the end of the project, the team will have an understanding, experience, and 
 real-world companies develop applications and be able to develop one using the same methodology and
 
 development practices.
-  
+
  <br/> 
   
 <strong>Technologies used:</strong>
@@ -44,12 +43,11 @@ development practices.
 \_ Git & GitHub (for collaboration)
 
 \_ Visual Studio IDE (for implementation)
-  
+
 \_ Balsamiq Wireframe (for prototyping)
 
 \_ Firebase DB (for intuitive login)
 
-  
 <br/>   
 <strong>Core Concepts</strong>
   
@@ -60,9 +58,9 @@ Scrum
  
 • Scrum Master (SM)  - for keeping us on track
   
-• Product Owner (PO)  - all of us PO as per specification  
+• Product Owner (PO)  - all of us PO as per specification
 
-• Breaking down big features into smaller and achievable tasks 
+• Breaking down big features into smaller and achievable tasks
 
 • Daily Scrum Meetings
 
@@ -74,7 +72,6 @@ Extreme Programming (XP)
 
 • Collective Ownership
 
-  
   <br/>
   
 • Using Source Code Management (SCM) or Version Control System (VCS)
@@ -83,8 +80,6 @@ Extreme Programming (XP)
 
 • Web app development and integrating with an API
 
-  
-  
 <br/>   
 In our application landing page, we have <strong>three main features</strong>:
   
@@ -94,15 +89,17 @@ In our application landing page, we have <strong>three main features</strong>:
 
 \_ Events
 
-  Deployed product prototype (in progress...)
-  https://aqueous-fortress-70622.herokuapp.com/
- <br/>  
-<strong>Note</strong>: 
+Wireframes:
+![](https://github.com/shpomp/KODAK-SD1/blob/karo-edits/wireframes/wireframes.gif)
+Wireframes in various formats can be found [here](https://github.com/shpomp/KODAK-SD1/tree/karo-edits/wireframes)
+
+Deployed product prototype
+https://aqueous-fortress-70622.herokuapp.com/
+<br/>  
+<strong>Note</strong>:
 
 Users can view discussions and events without the need for logging in. However, whenever a User needs
 
 to interact with our system, for example to see members, signup for events or post comments in
 
 the discussions… they need to be logged in as a member, in other words, register themselves.
-
-
