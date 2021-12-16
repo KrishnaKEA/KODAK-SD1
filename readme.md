@@ -89,6 +89,10 @@ In our application landing page, we have <strong>three main features</strong>:
 
 \_ Events
 
+Wireframes:
+![](https://github.com/shpomp/KODAK-SD1/blob/karo-edits/wireframes/wireframes.gif)
+Wireframes in various formats can be found [here](https://github.com/shpomp/KODAK-SD1/tree/karo-edits/wireframes)
+
 Deployed product prototype
 https://aqueous-fortress-70622.herokuapp.com/
 <br/>  
