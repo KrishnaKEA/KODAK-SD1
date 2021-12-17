@@ -93,6 +93,7 @@ In our application landing page, we have <strong>three main features</strong>:
 Wireframes:
 ![](https://github.com/shpomp/KODAK-SD1/blob/karo-edits/wireframes/wireframes.gif)
 Wireframes in various formats can be found [here](https://github.com/shpomp/KODAK-SD1/tree/karo-edits/wireframes)
+Video showing the navigation through the website with voiceover here: https://drive.google.com/file/d/1ryniWxrFSpjMrNh9ExE0MLK2vaLDyEpM/view  
 
 Deployed product prototype
 https://aqueous-fortress-70622.herokuapp.com/
